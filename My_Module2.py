@@ -6,7 +6,7 @@ def test1(x, y):
 
 
 def test2(x, y):
-    return x - y
+    return x * y
 
 
 if __name__ == '__main__':
